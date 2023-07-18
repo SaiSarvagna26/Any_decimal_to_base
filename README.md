@@ -1,4 +1,4 @@
-# Any_decimal_to_base
+# Decimal_to_Anybase
 
 Given a decimal number A and a base B, convert it into its equivalent number in base B.
 
